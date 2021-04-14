@@ -1,2 +1,1 @@
-# hello-world
-hello-world program
+hello-class, my name is Justin Ivie, i am From Tyler, Texas.
